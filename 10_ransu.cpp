@@ -1,0 +1,11 @@
+//ransu.cpp
+#include <iostream>
+#include <cstdlib>   //rand()‚ðŽg‚¤‚½‚ß‚É•K—v
+using namespace std;
+
+int main()
+{
+	cout << rand() << endl;
+	cout << rand() << endl;
+	cout << rand() << endl;
+}
